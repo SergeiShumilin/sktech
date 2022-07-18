@@ -14,5 +14,3 @@ do
   touch $output/${name}
 
 done
-
-
